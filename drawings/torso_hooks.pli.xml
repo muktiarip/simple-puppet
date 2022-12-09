@@ -1,0 +1,26 @@
+<hooks>
+  <hook>
+    <frame>
+      1 0.248181 -31.6792 0.248181 -31.6792 
+    </frame>
+    </hook>
+  <hook>
+    <frame>
+      1 -4.73834 43.9497 -4.73834 43.9497 
+    </frame>
+    </hook>
+  <hook>
+    <frame>
+      1 -26.3369 40.1183 -26.3369 40.1183 
+    </frame>
+    </hook>
+  <hook>
+    <frame>
+      1 23.6361 40.1164 23.6361 40.1164 
+    </frame>
+    </hook>
+  <hook>
+    </hook>
+  <hook>
+    </hook>
+  </hooks>
